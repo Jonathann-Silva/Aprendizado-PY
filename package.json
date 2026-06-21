@@ -1,7 +1,7 @@
 {
   "name": "aprendizado-js",
   "version": "1.0.0",
-  "description": "",
+  "description": "Esse é nosso primeiro projeto de api com node.",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,11 +11,14 @@
     "url": "git+https://github.com/Jonathann-Silva/Aprendizado-JS.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Jonathan Silva",
   "license": "ISC",
-  "type": "commonjs",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/Jonathann-Silva/Aprendizado-JS/issues"
   },
-  "homepage": "https://github.com/Jonathann-Silva/Aprendizado-JS#readme"
+  "homepage": "https://github.com/Jonathann-Silva/Aprendizado-JS#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }
