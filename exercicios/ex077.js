@@ -12,6 +12,20 @@
 // (Quando enviar POST: "Corpo da requisição recebido: { nome: 'João' }")
 //
 // Para executar este arquivo, use o comando: node ex077.js
+//
+// ====================================================================
+// EXEMPLO SIMILAR / CONCEITO:
+//
+// Exemplo similar: Receber corpo de texto simples de postagem e salvar em string.
+//
+// const http = require('http');
+// http.createServer((req, res) => {
+//   let body = '';
+//   req.on('data', c => body += c);
+//   req.on('end', () => { res.end('Recebido: ' + body); });
+// }).listen(3000);
+// ====================================================================
 
 // Escreva seu código abaixo:
+
 

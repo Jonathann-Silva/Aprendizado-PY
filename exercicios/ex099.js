@@ -12,6 +12,18 @@
 // Capturado rejeição de Promise não tratada: Promessa rejeitada!
 //
 // Para executar este arquivo, use o comando: node ex099.js
+//
+// ====================================================================
+// EXEMPLO SIMILAR / CONCEITO:
+//
+// Exemplo similar: Criar um logger central que salva erros em arquivo antes de encerrar.
+//
+// process.on('uncaughtException', (err) => {
+//   fs.appendFileSync('erros.log', err.stack + '\n');
+//   process.exit(1);
+// });
+// ====================================================================
 
 // Escreva seu código abaixo:
+
 

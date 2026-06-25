@@ -13,6 +13,17 @@
 // Query string final: busca=node&limite=10&pagina=2
 //
 // Para executar este arquivo, use o comando: node ex098.js
+//
+// ====================================================================
+// EXEMPLO SIMILAR / CONCEITO:
+//
+// Exemplo similar: Remover um parâmetro de filtro específico da URL.
+//
+// const params = new URLSearchParams('busca=node&categoria=livros');
+// params.delete('categoria');
+// console.log(params.toString()); // busca=node
+// ====================================================================
 
 // Escreva seu código abaixo:
+
 

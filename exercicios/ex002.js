@@ -12,3 +12,7 @@
 
 // Escreva seu código abaixo:
 
+const nome = 'jonathan'
+const idade = 29
+
+console.log(`Olá, meu nome é ${nome} e tenho ${idade} anos.`)

@@ -13,6 +13,16 @@
 // setTimeout executado (Macrotask)
 //
 // Para executar este arquivo, use o comando: node ex085.js
+//
+// ====================================================================
+// EXEMPLO SIMILAR / CONCEITO:
+//
+// Exemplo similar: Ordem de execução: Promise.then (micro) vs setInterval (macro).
+//
+// Promise.resolve().then(() => console.log('Microtask (Promise)'));
+// setTimeout(() => console.log('Macrotask (setTimeout)'), 0);
+// ====================================================================
 
 // Escreva seu código abaixo:
+
 

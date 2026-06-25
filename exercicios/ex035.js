@@ -12,6 +12,18 @@
 // Usuário encontrado: Carla no índice 2
 //
 // Para executar este arquivo, use o comando: node ex035.js
+//
+// ====================================================================
+// EXEMPLO SIMILAR / CONCEITO:
+//
+// Exemplo similar: Localizar um produto no carrinho que custa mais de 100 reais e obter seu índice.
+//
+// const produtos = [{ item: 'Lápis', preco: 2 }, { item: 'Livro', preco: 120 }];
+// const livroCaro = produtos.find(p => p.preco > 100);
+// const idx = produtos.findIndex(p => p.preco > 100);
+// console.log(livroCaro, idx);
+// ====================================================================
 
 // Escreva seu código abaixo:
+
 

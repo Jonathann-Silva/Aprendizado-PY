@@ -11,6 +11,16 @@
 // invalido.com é válido? false
 //
 // Para executar este arquivo, use o comando: node ex086.js
+//
+// ====================================================================
+// EXEMPLO SIMILAR / CONCEITO:
+//
+// Exemplo similar: Validar se uma string contém apenas letras e números (alfanumérico).
+//
+// const regex = /^[a-zA-Z0-9]+$/;
+// console.log(regex.test('User123')); // true
+// ====================================================================
 
 // Escreva seu código abaixo:
+
 

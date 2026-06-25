@@ -13,6 +13,16 @@
 // Texto Original: Aprendendo JavaScript
 //
 // Para executar este arquivo, use o comando: node ex052.js
+//
+// ====================================================================
+// EXEMPLO SIMILAR / CONCEITO:
+//
+// Exemplo similar: Codificar uma senha string simples para o formato Base64.
+//
+// const senhaBuf = Buffer.from('minha_senha');
+// console.log(`Base64: ${senhaBuf.toString('base64')}`);
+// ====================================================================
 
 // Escreva seu código abaixo:
+
 

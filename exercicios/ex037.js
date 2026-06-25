@@ -10,6 +10,17 @@
 // URL: localhost, Porta: 8080, Timeout: 3000
 //
 // Para executar este arquivo, use o comando: node ex037.js
+//
+// ====================================================================
+// EXEMPLO SIMILAR / CONCEITO:
+//
+// Exemplo similar: Extrair dados de perfil de rede social definindo apelido e valores padrão.
+//
+// const perfil = { username: 'jonas99', followers: 500 };
+// const { username: nick, followers: seguidores, posts = 0 } = perfil;
+// console.log(nick, seguidores, posts);
+// ====================================================================
 
 // Escreva seu código abaixo:
+
 

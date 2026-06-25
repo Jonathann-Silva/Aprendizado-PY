@@ -13,5 +13,24 @@
 // Nome no GitHub: Node.js | Repositórios públicos: [Número de repositórios]
 //
 // Para executar este arquivo, use o comando: node ex026.js
+//
+// ====================================================================
+// EXEMPLO SIMILAR / CONCEITO:
+//
+// Exemplo similar: Obter um endereço de teste a partir do VIACEP usando a API global fetch.
+//
+// async function buscarCep() {
+//   try {
+//     const res = await fetch('https://viacep.com.br/ws/01001000/json/');
+//     const dados = await res.json();
+//     console.log(`Cidade: ${dados.localidade} - UF: ${dados.uf}`);
+//   } catch (e) {
+//     console.log('Erro ao consultar CEP:', e.message);
+//   }
+// }
+// buscarCep();
+// ====================================================================
 
 // Escreva seu código abaixo:
+
+

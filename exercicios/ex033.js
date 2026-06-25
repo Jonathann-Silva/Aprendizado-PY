@@ -10,6 +10,17 @@
 // [ 14, 20 ]
 //
 // Para executar este arquivo, use o comando: node ex033.js
+//
+// ====================================================================
+// EXEMPLO SIMILAR / CONCEITO:
+//
+// Exemplo similar: Filtrar idades menores de 18 anos em um array de idades.
+//
+// const idades = [12, 22, 15, 30, 8, 19];
+// const maiores = idades.filter(idade => idade >= 18);
+// console.log(maiores);
+// ====================================================================
 
 // Escreva seu código abaixo:
+
 

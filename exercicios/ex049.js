@@ -15,6 +15,18 @@
 // Função de maria: admin
 //
 // Para executar este arquivo, use o comando: node ex049.js
+//
+// ====================================================================
+// EXEMPLO SIMILAR / CONCEITO:
+//
+// Exemplo similar: Criar um Map associando um objeto de configuração a uma string de permissão.
+//
+// const configMap = new Map();
+// const featureX = { dev: true };
+// configMap.set(featureX, 'habilitada');
+// console.log(configMap.get(featureX));
+// ====================================================================
 
 // Escreva seu código abaixo:
+
 

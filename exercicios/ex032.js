@@ -11,6 +11,17 @@
 // [ 32, 50, 68, 86, 104 ]
 //
 // Para executar este arquivo, use o comando: node ex032.js
+//
+// ====================================================================
+// EXEMPLO SIMILAR / CONCEITO:
+//
+// Exemplo similar: Converter array de nomes em formato contendo apenas letras MAIÚSCULAS.
+//
+// const nomes = ['ana', 'beto', 'carla'];
+// const maiusculas = nomes.map(nome => nome.toUpperCase());
+// console.log(maiusculas);
+// ====================================================================
 
 // Escreva seu código abaixo:
+
 

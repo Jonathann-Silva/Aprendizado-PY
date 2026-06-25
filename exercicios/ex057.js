@@ -15,6 +15,19 @@
 // Arquivo descompactado com sucesso!
 //
 // Para executar este arquivo, use o comando: node ex057.js
+//
+// ====================================================================
+// EXEMPLO SIMILAR / CONCEITO:
+//
+// Exemplo similar: Descompactar arquivo de log gzip usando pipe.
+//
+// const fs = require('fs');
+// const zlib = require('zlib');
+// fs.createReadStream('origem.txt.gz')
+//   .pipe(zlib.createGunzip())
+//   .pipe(fs.createWriteStream('origem_nova.txt'));
+// ====================================================================
 
 // Escreva seu código abaixo:
+
 

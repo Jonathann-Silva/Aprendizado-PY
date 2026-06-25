@@ -14,6 +14,17 @@
 // Erro capturado ao tentar gravar: [Erro de permissão]
 //
 // Para executar este arquivo, use o comando: node ex093.js
+//
+// ====================================================================
+// EXEMPLO SIMILAR / CONCEITO:
+//
+// Exemplo similar: Alterar permissões para permitir execução de script shell (0o755).
+//
+// const fs = require('fs');
+// fs.chmodSync('script.sh', 0o755);
+// console.log('Script agora é executável!');
+// ====================================================================
 
 // Escreva seu código abaixo:
+
 

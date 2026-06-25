@@ -11,5 +11,20 @@
 // O usuário Carlos acabou de fazer login!
 //
 // Para executar este arquivo, use o comando: node ex021.js
+//
+// ====================================================================
+// EXEMPLO SIMILAR / CONCEITO:
+//
+// Exemplo similar: Emitir dados de um login de usuário no evento de autenticação.
+//
+// const EventEmitter = require('events');
+// const portal = new EventEmitter();
+// portal.on('login', (usuario, ip) => {
+//   console.log(`Usuário ${usuario} conectou a partir do IP: ${ip}`);
+// });
+// portal.emit('login', 'jonathan', '192.168.1.10');
+// ====================================================================
 
 // Escreva seu código abaixo:
+
+

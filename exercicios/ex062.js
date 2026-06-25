@@ -11,6 +11,18 @@
 // Conteúdo lido com promisify: {"nome": "Teste", "valor": 123}
 //
 // Para executar este arquivo, use o comando: node ex062.js
+//
+// ====================================================================
+// EXEMPLO SIMILAR / CONCEITO:
+//
+// Exemplo similar: Converter callback do dns lookup para Promise.
+//
+// const dns = require('dns');
+// const { promisify } = require('util');
+// const lookupPromise = promisify(dns.lookup);
+// lookupPromise('google.com').then(res => console.log(res.address));
+// ====================================================================
 
 // Escreva seu código abaixo:
+
 

@@ -12,6 +12,17 @@
 // Bytes aleatórios (Hex): [String de 32 caracteres hex]
 //
 // Para executar este arquivo, use o comando: node ex091.js
+//
+// ====================================================================
+// EXEMPLO SIMILAR / CONCEITO:
+//
+// Exemplo similar: Criar um token hexadecimal de sessão de 32 bytes para segurança.
+//
+// const crypto = require('crypto');
+// const sessionToken = crypto.randomBytes(32).toString('hex');
+// console.log(sessionToken);
+// ====================================================================
 
 // Escreva seu código abaixo:
+
 

@@ -17,6 +17,16 @@
 // setTimeout (0ms)
 //
 // Para executar este arquivo, use o comando: node ex084.js
+//
+// ====================================================================
+// EXEMPLO SIMILAR / CONCEITO:
+//
+// Exemplo similar: Rodar verificação rápida de estado usando process.nextTick antes de microtasks.
+//
+// process.nextTick(() => console.log('Executa imediatamente após código atual síncrono'));
+// setImmediate(() => console.log('Executa na fase Check do Event Loop'));
+// ====================================================================
 
 // Escreva seu código abaixo:
+
 

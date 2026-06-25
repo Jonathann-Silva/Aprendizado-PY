@@ -10,6 +10,17 @@
 // Cor 1: Vermelho, Cor 3: Azul
 //
 // Para executar este arquivo, use o comando: node ex038.js
+//
+// ====================================================================
+// EXEMPLO SIMILAR / CONCEITO:
+//
+// Exemplo similar: Extrair a primeira e a terceira nota de um boletim escolar.
+//
+// const notas = [8.5, 7.0, 9.5];
+// const [nota1, , nota3] = notas;
+// console.log(nota1, nota3);
+// ====================================================================
 
 // Escreva seu código abaixo:
+
 

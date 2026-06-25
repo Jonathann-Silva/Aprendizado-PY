@@ -13,5 +13,17 @@
 // Hash SHA256: 418197779d4b6dbecb2d2946c1b3f7f2127265efaa3b34b1bd242bfd2aa61c56
 //
 // Para executar este arquivo, use o comando: node ex027.js
+//
+// ====================================================================
+// EXEMPLO SIMILAR / CONCEITO:
+//
+// Exemplo similar: Criar hash MD5 para verificar integridade de arquivos de texto.
+//
+// const crypto = require('crypto');
+// const hashMD5 = crypto.createHash('md5').update('conteudo_do_arquivo').digest('hex');
+// console.log(`Hash MD5: ${hashMD5}`);
+// ====================================================================
 
 // Escreva seu código abaixo:
+
+

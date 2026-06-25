@@ -12,6 +12,20 @@
 // Área do círculo de raio 5: 78.54
 //
 // Para executar este arquivo, use o comando: node ex044.js
+//
+// ====================================================================
+// EXEMPLO SIMILAR / CONCEITO:
+//
+// Exemplo similar: Criar método estático na classe Conversor para calcular quilômetros em milhas.
+//
+// class Conversor {
+//   static kmParaMilhas(km) {
+//     return km * 0.621371;
+//   }
+// }
+// console.log(Conversor.kmParaMilhas(10));
+// ====================================================================
 
 // Escreva seu código abaixo:
+
 

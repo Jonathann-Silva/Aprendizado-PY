@@ -12,6 +12,16 @@
 // Chaves do objeto: [ 'nome', 'idade' ]
 //
 // Para executar este arquivo, use o comando: node ex090.js
+//
+// ====================================================================
+// EXEMPLO SIMILAR / CONCEITO:
+//
+// Exemplo similar: Verificar se objeto possui propriedade 'cidade' usando Reflect.has().
+//
+// const pessoa = { nome: 'Ana' };
+// console.log(Reflect.has(pessoa, 'cidade')); // false
+// ====================================================================
 
 // Escreva seu código abaixo:
+
 

@@ -14,6 +14,17 @@
 // Parâmetros: categoria=livros, ordem=preco
 //
 // Para executar este arquivo, use o comando: node ex063.js
+//
+// ====================================================================
+// EXEMPLO SIMILAR / CONCEITO:
+//
+// Exemplo similar: Extrair parâmetros de busca de uma URL interna de busca.
+//
+// const { URL } = require('url');
+// const url = new URL('https://loja.com/busca?q=tenis&cor=azul');
+// console.log(url.searchParams.get('q'), url.searchParams.get('cor'));
+// ====================================================================
 
 // Escreva seu código abaixo:
+
 

@@ -11,6 +11,16 @@
 // Data formatada: 25/06/2026
 //
 // Para executar este arquivo, use o comando: node ex082.js
+//
+// ====================================================================
+// EXEMPLO SIMILAR / CONCEITO:
+//
+// Exemplo similar: Formatar peso em kg no locale dos EUA (lbs/oz) ou decimal brasileiro.
+//
+// const formatador = new Intl.NumberFormat('pt-BR', { minimumFractionDigits: 3 });
+// console.log(formatador.format(12.5) + ' kg');
+// ====================================================================
 
 // Escreva seu código abaixo:
+
 

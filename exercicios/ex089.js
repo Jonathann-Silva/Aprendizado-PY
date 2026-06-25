@@ -13,6 +13,22 @@
 // Escrevendo propriedade: idade -> 26
 //
 // Para executar este arquivo, use o comando: node ex089.js
+//
+// ====================================================================
+// EXEMPLO SIMILAR / CONCEITO:
+//
+// Exemplo similar: Validar se valor atribuído a uma propriedade numérica é positivo.
+//
+// const conta = { saldo: 100 };
+// const validador = new Proxy(conta, {
+//   set(obj, prop, valor) {
+//     if (prop === 'saldo' && valor < 0) throw new Error('Saldo inválido');
+//     obj[prop] = valor;
+//     return true;
+//   }
+// });
+// ====================================================================
 
 // Escreva seu código abaixo:
+
 

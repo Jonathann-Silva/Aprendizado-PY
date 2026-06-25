@@ -12,5 +12,20 @@
 // Servidor rodando em http://localhost:3000
 //
 // Para executar este arquivo, use o comando: node ex017.js
+//
+// ====================================================================
+// EXEMPLO SIMILAR / CONCEITO:
+//
+// Exemplo similar: Servidor HTTP que responde com um cabeçalho H2 estilizado na cor verde.
+//
+// const http = require('http');
+// const server = http.createServer((req, res) => {
+//   res.writeHead(200, { 'Content-Type': 'text/html; charset=utf-8' });
+//   res.end('<h2 style="color: green;">Painel Principal</h2><p>Acesso permitido.</p>');
+// });
+// server.listen(8080);
+// ====================================================================
 
 // Escreva seu código abaixo:
+
+

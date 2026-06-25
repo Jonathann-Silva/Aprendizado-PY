@@ -12,6 +12,17 @@
 // Vencedor: Tarefa Rápida (500ms)
 //
 // Para executar este arquivo, use o comando: node ex067.js
+//
+// ====================================================================
+// EXEMPLO SIMILAR / CONCEITO:
+//
+// Exemplo similar: Fazer corrida de consulta a dois servidores espelhos de API.
+//
+// const api1 = new Promise(r => setTimeout(() => r('API 1'), 50));
+// const api2 = new Promise(r => setTimeout(() => r('API 2'), 100));
+// Promise.race([api1, api2]).then(vencedora => console.log(vencedora));
+// ====================================================================
 
 // Escreva seu código abaixo:
+
 

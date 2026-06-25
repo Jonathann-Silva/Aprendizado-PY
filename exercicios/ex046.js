@@ -14,6 +14,21 @@
 // Operação finalizada.
 //
 // Para executar este arquivo, use o comando: node ex046.js
+//
+// ====================================================================
+// EXEMPLO SIMILAR / CONCEITO:
+//
+// Exemplo similar: Tratar parsing de JSON inválido usando bloco try/catch/finally.
+//
+// try {
+//   const dados = JSON.parse("{ nome: invalido }");
+// } catch(e) {
+//   console.log("JSON inválido: " + e.message);
+// } finally {
+//   console.log("Validação finalizada.");
+// }
+// ====================================================================
 
 // Escreva seu código abaixo:
+
 

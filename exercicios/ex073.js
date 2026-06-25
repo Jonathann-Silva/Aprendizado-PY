@@ -14,6 +14,20 @@
 // (Segunda emissão deve ser silenciosa)
 //
 // Para executar este arquivo, use o comando: node ex073.js
+//
+// ====================================================================
+// EXEMPLO SIMILAR / CONCEITO:
+//
+// Exemplo similar: Desvincular logger de auditoria ao fechar conexão.
+//
+// const EventEmitter = require('events');
+// const conn = new EventEmitter();
+// const log = () => console.log('Operação efetuada');
+// conn.on('query', log);
+// conn.emit('query');
+// conn.off('query', log);
+// ====================================================================
 
 // Escreva seu código abaixo:
+
 

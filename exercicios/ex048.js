@@ -12,6 +12,19 @@
 // Itens únicos: [ 'maçã', 'banana', 'uva' ]
 //
 // Para executar este arquivo, use o comando: node ex048.js
+//
+// ====================================================================
+// EXEMPLO SIMILAR / CONCEITO:
+//
+// Exemplo similar: Guardar IDs de produtos visualizados sem permitir duplicações.
+//
+// const visualizados = new Set();
+// visualizados.add(101);
+// visualizados.add(102);
+// visualizados.add(101); // duplicado ignorado
+// console.log(visualizados.size);
+// ====================================================================
 
 // Escreva seu código abaixo:
+
 

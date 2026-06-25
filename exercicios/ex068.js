@@ -15,6 +15,16 @@
 // Status 3: fulfilled | Valor: Sucesso 2
 //
 // Para executar este arquivo, use o comando: node ex068.js
+//
+// ====================================================================
+// EXEMPLO SIMILAR / CONCEITO:
+//
+// Exemplo similar: Mandar emails em lote e checar quais falharam e quais enviaram.
+//
+// const envios = [Promise.resolve('Enviado 1'), Promise.reject('Erro no 2')];
+// Promise.allSettled(envios).then(resultados => console.log(resultados));
+// ====================================================================
 
 // Escreva seu código abaixo:
+
 

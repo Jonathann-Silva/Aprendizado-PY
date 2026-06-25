@@ -12,5 +12,23 @@
 // Número par!
 //
 // Para executar este arquivo, use o comando: node ex024.js
+//
+// ====================================================================
+// EXEMPLO SIMILAR / CONCEITO:
+//
+// Exemplo similar: Criar Promise que resolve se a idade do usuário for de maior, ou rejeita se de menor.
+//
+// function verificarMaioridade(idade) {
+//   return new Promise((resolve, reject) => {
+//     if (idade >= 18) resolve('Acesso Liberado!');
+//     else reject('Acesso Negado: menor de idade.');
+//   });
+// }
+// verificarMaioridade(20)
+//   .then(msg => console.log(msg))
+//   .catch(err => console.error(err));
+// ====================================================================
 
 // Escreva seu código abaixo:
+
+

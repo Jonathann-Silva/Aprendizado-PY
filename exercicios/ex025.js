@@ -12,5 +12,21 @@
 // Resultado: Dados carregados!
 //
 // Para executar este arquivo, use o comando: node ex025.js
+//
+// ====================================================================
+// EXEMPLO SIMILAR / CONCEITO:
+//
+// Exemplo similar: Aguardar retorno de download simulado usando async/await.
+//
+// const baixarArquivo = () => new Promise(r => setTimeout(() => r('Arquivo baixado!'), 300));
+// async function inicializar() {
+//   console.log('Iniciando download...');
+//   const msg = await baixarArquivo();
+//   console.log(msg);
+// }
+// inicializar();
+// ====================================================================
 
 // Escreva seu código abaixo:
+
+

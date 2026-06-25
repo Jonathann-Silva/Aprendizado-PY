@@ -10,6 +10,18 @@
 // Soma: 15
 //
 // Para executar este arquivo, use o comando: node ex040.js
+//
+// ====================================================================
+// EXEMPLO SIMILAR / CONCEITO:
+//
+// Exemplo similar: Criar função que concatena textos passados de forma variável separados por um delimitador.
+//
+// function juntarPalavras(separador, ...palavras) {
+//   return palavras.join(separador);
+// }
+// console.log(juntarPalavras(' - ', 'Sol', 'Lua', 'Estrela'));
+// ====================================================================
 
 // Escreva seu código abaixo:
+
 

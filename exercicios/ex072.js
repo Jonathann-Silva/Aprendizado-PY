@@ -12,6 +12,19 @@
 // Evento recebido apenas uma vez!
 //
 // Para executar este arquivo, use o comando: node ex072.js
+//
+// ====================================================================
+// EXEMPLO SIMILAR / CONCEITO:
+//
+// Exemplo similar: Executar carregamento inicial do app no evento 'ready' apenas uma vez.
+//
+// const EventEmitter = require('events');
+// const app = new EventEmitter();
+// app.once('ready', () => console.log('App pronto!'));
+// app.emit('ready');
+// app.emit('ready'); // não dispara de novo
+// ====================================================================
 
 // Escreva seu código abaixo:
+
 

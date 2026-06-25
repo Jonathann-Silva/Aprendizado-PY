@@ -13,6 +13,20 @@
 // (Quando conectar: "Cliente conectado!")
 //
 // Para executar este arquivo, use o comando: node ex074.js
+//
+// ====================================================================
+// EXEMPLO SIMILAR / CONCEITO:
+//
+// Exemplo similar: Servidor TCP na porta 5050 respondendo com data/hora.
+//
+// const net = require('net');
+// const server = net.createServer(socket => {
+//   socket.write(new Date().toString() + '\n');
+//   socket.end();
+// });
+// server.listen(5050);
+// ====================================================================
 
 // Escreva seu código abaixo:
+
 

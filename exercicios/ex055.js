@@ -13,6 +13,16 @@
 // Arquivo copiado com sucesso via pipe!
 //
 // Para executar este arquivo, use o comando: node ex055.js
+//
+// ====================================================================
+// EXEMPLO SIMILAR / CONCEITO:
+//
+// Exemplo similar: Copiar um arquivo de texto para um backup usando pipe.
+//
+// const fs = require('fs');
+// fs.createReadStream('dados.txt').pipe(fs.createWriteStream('dados_backup.txt'));
+// ====================================================================
 
 // Escreva seu código abaixo:
+
 

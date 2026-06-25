@@ -11,6 +11,17 @@
 // Buffer Array como String: Node
 //
 // Para executar este arquivo, use o comando: node ex051.js
+//
+// ====================================================================
+// EXEMPLO SIMILAR / CONCEITO:
+//
+// Exemplo similar: Alocar um buffer com 10 posições em branco (zeros) e escrever um texto curto.
+//
+// const buf = Buffer.alloc(10);
+// buf.write('OI');
+// console.log(buf.toString());
+// ====================================================================
 
 // Escreva seu código abaixo:
+
 

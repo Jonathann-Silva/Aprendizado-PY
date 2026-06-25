@@ -10,6 +10,20 @@
 // Erro [SaldoInsuficienteError]: Saldo insuficiente para realizar o saque.
 //
 // Para executar este arquivo, use o comando: node ex047.js
+//
+// ====================================================================
+// EXEMPLO SIMILAR / CONCEITO:
+//
+// Exemplo similar: Criar erro personalizado ConexaoBancoError herdando da classe Error.
+//
+// class ConexaoBancoError extends Error {
+//   constructor(msg) {
+//     super(msg);
+//     this.name = 'ConexaoBancoError';
+//   }
+// }
+// ====================================================================
 
 // Escreva seu código abaixo:
+
 

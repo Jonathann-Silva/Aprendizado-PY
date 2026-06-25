@@ -13,6 +13,18 @@
 // ID secreto: 12345
 //
 // Para executar este arquivo, use o comando: node ex050.js
+//
+// ====================================================================
+// EXEMPLO SIMILAR / CONCEITO:
+//
+// Exemplo similar: Definir propriedades secretas de depuração usando Symbol como chave do objeto.
+//
+// const debugKey = Symbol('debug');
+// const app = {};
+// app[debugKey] = 'modo_verbose';
+// console.log(app[debugKey]);
+// ====================================================================
 
 // Escreva seu código abaixo:
+
 

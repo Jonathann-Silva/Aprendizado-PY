@@ -13,6 +13,16 @@
 // Arquivo renomeado com sucesso!
 //
 // Para executar este arquivo, use o comando: node ex094.js
+//
+// ====================================================================
+// EXEMPLO SIMILAR / CONCEITO:
+//
+// Exemplo similar: Mover o arquivo 'dados.csv' para a pasta 'processados/'.
+//
+// const fs = require('fs');
+// fs.renameSync('dados.csv', './processados/dados.csv');
+// ====================================================================
 
 // Escreva seu código abaixo:
+
 

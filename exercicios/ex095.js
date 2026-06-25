@@ -14,6 +14,18 @@
 // Arquivo alterado! Evento: change
 //
 // Para executar este arquivo, use o comando: node ex095.js
+//
+// ====================================================================
+// EXEMPLO SIMILAR / CONCEITO:
+//
+// Exemplo similar: Monitorar mudanças na pasta de uploads de mídia.
+//
+// const fs = require('fs');
+// fs.watch('./uploads', (event, filename) => {
+//   console.log(`Upload alterado: ${filename} (Evento: ${event})`);
+// });
+// ====================================================================
 
 // Escreva seu código abaixo:
+
 

@@ -13,6 +13,20 @@
 // O dobro de 15 é 30
 //
 // Para executar este arquivo, use o comando: node ex031.mjs
+//
+// ====================================================================
+// EXEMPLO SIMILAR / CONCEITO:
+//
+// Exemplo similar: Exportar função que calcula quadrado e importá-la com sintaxe ES6 (import/export).
+//
+// // Em moduloMat.mjs:
+// // export function quadrado(n) { return n * n; }
+// //
+// // Em ex031.mjs:
+// // import { quadrado } from './moduloMat.mjs';
+// // console.log('Quadrado de 5:', quadrado(5));
+// ====================================================================
 
 // Escreva seu código abaixo:
+
 

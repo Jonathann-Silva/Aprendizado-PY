@@ -14,6 +14,22 @@
 // Cadastro: Ana, 28 anos.
 //
 // Para executar este arquivo, use o comando: node ex059.js
+//
+// ====================================================================
+// EXEMPLO SIMILAR / CONCEITO:
+//
+// Exemplo similar: Perguntar cidade e estado em sequência usando readline encadeado.
+//
+// const readline = require('readline');
+// const rl = readline.createInterface({ input: process.stdin, output: process.stdout });
+// rl.question('Qual a sua cidade? ', (cidade) => {
+//   rl.question('Qual o seu estado? ', (estado) => {
+//     console.log(`Cidade: ${cidade} - ${estado}`);
+//     rl.close();
+//   });
+// });
+// ====================================================================
 
 // Escreva seu código abaixo:
+
 

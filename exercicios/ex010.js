@@ -11,5 +11,19 @@
 // Escrita assíncrona concluída!
 //
 // Para executar este arquivo, use o comando: node ex010.js
+//
+// ====================================================================
+// EXEMPLO SIMILAR / CONCEITO:
+//
+// Exemplo similar: Gravar um arquivo contendo erros de sistema de forma assíncrona.
+//
+// const fs = require('fs');
+// fs.writeFile('erros.log', 'Erro 404 detectado', 'utf8', (err) => {
+//   if (err) throw err;
+//   console.log('Log gravado de forma assíncrona.');
+// });
+// ====================================================================
 
 // Escreva seu código abaixo:
+
+

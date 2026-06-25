@@ -13,6 +13,26 @@
 // Temperatura em Celsius: 30
 //
 // Para executar este arquivo, use o comando: node ex045.js
+//
+// ====================================================================
+// EXEMPLO SIMILAR / CONCEITO:
+//
+// Exemplo similar: Criar getters e setters para definir o nome completo a partir do primeiro e último nome.
+//
+// class Usuario {
+//   constructor(nome, sobrenome) {
+//     this.nome = nome;
+//     this.sobrenome = sobrenome;
+//   }
+//   get nomeCompleto() { return `${this.nome} ${this.sobrenome}`; }
+//   set nomeCompleto(valor) {
+//     const partes = valor.split(' ');
+//     this.nome = partes[0];
+//     this.sobrenome = partes[1] || '';
+//   }
+// }
+// ====================================================================
 
 // Escreva seu código abaixo:
+
 

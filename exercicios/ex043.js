@@ -12,6 +12,25 @@
 // Olá, meu nome é Julia, tenho 25 anos e programo em JavaScript.
 //
 // Para executar este arquivo, use o comando: node ex043.js
+//
+// ====================================================================
+// EXEMPLO SIMILAR / CONCEITO:
+//
+// Exemplo similar: Criar uma classe Moto que herda de Veiculo chamando o super().
+//
+// class Veiculo {
+//   constructor(marca) { this.marca = marca; }
+// }
+// class Moto extends Veiculo {
+//   constructor(marca, cilindradas) {
+//     super(marca);
+//     this.cilindradas = cilindradas;
+//   }
+// }
+// const minhaMoto = new Moto('Honda', 250);
+// console.log(minhaMoto.marca, minhaMoto.cilindradas);
+// ====================================================================
 
 // Escreva seu código abaixo:
+
 

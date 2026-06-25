@@ -15,5 +15,20 @@
 // Servidor rodando em http://localhost:3000
 //
 // Para executar este arquivo, use o comando: node ex016.js
+//
+// ====================================================================
+// EXEMPLO SIMILAR / CONCEITO:
+//
+// Exemplo similar: Servidor que escuta na porta 8080 e responde a todas as requisições com "Servidor Online".
+//
+// const http = require('http');
+// const server = http.createServer((req, res) => {
+//   res.writeHead(200, { 'Content-Type': 'text/plain; charset=utf-8' });
+//   res.end('Servidor Online!');
+// });
+// server.listen(8080);
+// ====================================================================
 
 // Escreva seu código abaixo:
+
+

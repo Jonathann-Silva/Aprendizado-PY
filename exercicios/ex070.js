@@ -14,6 +14,20 @@
 // Valor: undefined | Done: true
 //
 // Para executar este arquivo, use o comando: node ex070.js
+//
+// ====================================================================
+// EXEMPLO SIMILAR / CONCEITO:
+//
+// Exemplo similar: Generator para criar uma sequência infinita de múltiplos de 5.
+//
+// function* multiplosDeCinco() {
+//   let i = 5;
+//   while(true) { yield i; i += 5; }
+// }
+// const g = multiplosDeCinco();
+// console.log(g.next().value, g.next().value);
+// ====================================================================
 
 // Escreva seu código abaixo:
+
 

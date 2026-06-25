@@ -15,6 +15,19 @@
 // Arquivo compactado com sucesso!
 //
 // Para executar este arquivo, use o comando: node ex056.js
+//
+// ====================================================================
+// EXEMPLO SIMILAR / CONCEITO:
+//
+// Exemplo similar: Compactar arquivo de configuração usando Streams e Zlib Gzip.
+//
+// const fs = require('fs');
+// const zlib = require('zlib');
+// fs.createReadStream('origem.txt')
+//   .pipe(zlib.createGzip())
+//   .pipe(fs.createWriteStream('origem.txt.gz'));
+// ====================================================================
 
 // Escreva seu código abaixo:
+
 

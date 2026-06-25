@@ -16,6 +16,17 @@
 // Leitura concluída com X chunks.
 //
 // Para executar este arquivo, use o comando: node ex053.js
+//
+// ====================================================================
+// EXEMPLO SIMILAR / CONCEITO:
+//
+// Exemplo similar: Ler logs em blocos (chunks) de 30 bytes usando Readable Stream.
+//
+// const fs = require('fs');
+// const readStream = fs.createReadStream('registro.log', { highWaterMark: 30 });
+// readStream.on('data', chunk => console.log('Chunk lido:', chunk.toString()));
+// ====================================================================
 
 // Escreva seu código abaixo:
+
 

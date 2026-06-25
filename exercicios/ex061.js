@@ -12,6 +12,17 @@
 // Processo finalizado com código: 0
 //
 // Para executar este arquivo, use o comando: node ex061.js
+//
+// ====================================================================
+// EXEMPLO SIMILAR / CONCEITO:
+//
+// Exemplo similar: Iniciar um processo filho assíncrono para rodar node -v usando spawn.
+//
+// const { spawn } = require('child_process');
+// const ls = spawn('node', ['-v']);
+// ls.stdout.on('data', dados => console.log(dados.toString()));
+// ====================================================================
 
 // Escreva seu código abaixo:
+
 

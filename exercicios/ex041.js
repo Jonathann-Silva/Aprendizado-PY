@@ -14,6 +14,21 @@
 // Empresa: TechCorp
 //
 // Para executar este arquivo, use o comando: node ex041.js
+//
+// ====================================================================
+// EXEMPLO SIMILAR / CONCEITO:
+//
+// Exemplo similar: Criar um recibo de compra usando template literals com múltiplas linhas.
+//
+// const item = 'Fone de Ouvido';
+// const preco = 89.90;
+// const recibo = `--- RECIBO DE COMPRA ---
+// Produto: ${item}
+// Preço Total: R$ ${preco.toFixed(2)}
+// Obrigado pela preferência!`;
+// console.log(recibo);
+// ====================================================================
 
 // Escreva seu código abaixo:
+
 

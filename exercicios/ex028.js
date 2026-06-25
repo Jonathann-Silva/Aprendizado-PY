@@ -15,5 +15,16 @@
 // Rodando o aplicativo: MinhaAplicacaoNode
 //
 // Para executar este arquivo, use o comando: node ex028.js
+//
+// ====================================================================
+// EXEMPLO SIMILAR / CONCEITO:
+//
+// Exemplo similar: Ler uma chave de acesso secreta das variáveis de ambiente de process.env.
+//
+// const apiKey = process.env.SECRET_API_KEY || 'chave_de_teste';
+// console.log(`Chave de API em uso: ${apiKey}`);
+// ====================================================================
 
 // Escreva seu código abaixo:
+
+

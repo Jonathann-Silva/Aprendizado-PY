@@ -10,5 +10,17 @@
 // Plataforma: win32 | Arquitetura: x64
 //
 // Para executar este arquivo, use o comando: node ex004.js
+//
+// ====================================================================
+// EXEMPLO SIMILAR / CONCEITO:
+//
+// Exemplo similar: Obter o diretório padrão (home) e o hostname da máquina.
+//
+// const os = require('os');
+// console.log(`Nome do Host: ${os.hostname()}`);
+// console.log(`Pasta Home do usuário: ${os.homedir()}`);
+// ====================================================================
 
 // Escreva seu código abaixo:
+
+

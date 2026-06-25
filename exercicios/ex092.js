@@ -13,6 +13,19 @@
 // Texto Descriptografado: Segredo super confidencial!
 //
 // Para executar este arquivo, use o comando: node ex092.js
+//
+// ====================================================================
+// EXEMPLO SIMILAR / CONCEITO:
+//
+// Exemplo similar: Criptografar segredo usando algoritmo AES-256-CTR.
+//
+// const crypto = require('crypto');
+// const key = crypto.randomBytes(32);
+// const iv = crypto.randomBytes(16);
+// const cipher = crypto.createCipheriv('aes-256-ctr', key, iv);
+// let enc = cipher.update('MeuSegredo', 'utf8', 'hex') + cipher.final('hex');
+// ====================================================================
 
 // Escreva seu código abaixo:
+
 

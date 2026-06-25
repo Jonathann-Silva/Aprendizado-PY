@@ -16,5 +16,25 @@
 // (No navegador, acesse http://localhost:3000/sobre para testar)
 //
 // Para executar este arquivo, use o comando: node ex018.js
+//
+// ====================================================================
+// EXEMPLO SIMILAR / CONCEITO:
+//
+// Exemplo similar: Servidor HTTP com tratamento de rotas para '/cadastro' e '/login'.
+//
+// const http = require('http');
+// const server = http.createServer((req, res) => {
+//   if (req.url === '/cadastro') {
+//     res.end('Página de Cadastro');
+//   } else if (req.url === '/login') {
+//     res.end('Página de Login');
+//   } else {
+//     res.end('Página Inicial');
+//   }
+// });
+// server.listen(8080);
+// ====================================================================
 
 // Escreva seu código abaixo:
+
+

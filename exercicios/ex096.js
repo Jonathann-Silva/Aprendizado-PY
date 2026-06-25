@@ -14,6 +14,18 @@
 // Worker [PID] iniciado.
 //
 // Para executar este arquivo, use o comando: node ex096.js
+//
+// ====================================================================
+// EXEMPLO SIMILAR / CONCEITO:
+//
+// Exemplo similar: Escalonar 4 instâncias de workers em cluster.
+//
+// const cluster = require('cluster');
+// if (cluster.isPrimary) {
+//   for (let i = 0; i < 4; i++) cluster.fork();
+// }
+// ====================================================================
 
 // Escreva seu código abaixo:
+
 

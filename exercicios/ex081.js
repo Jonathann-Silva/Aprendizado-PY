@@ -11,6 +11,18 @@
 // Diferença em dias: 24
 //
 // Para executar este arquivo, use o comando: node ex081.js
+//
+// ====================================================================
+// EXEMPLO SIMILAR / CONCEITO:
+//
+// Exemplo similar: Adicionar 7 dias a uma data para calcular vencimento.
+//
+// const hoje = new Date();
+// const vencimento = new Date(hoje);
+// vencimento.setDate(hoje.getDate() + 7);
+// console.log(`Vencimento: ${vencimento.toLocaleDateString('pt-BR')}`);
+// ====================================================================
 
 // Escreva seu código abaixo:
+
 

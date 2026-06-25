@@ -13,6 +13,22 @@
 // Número recebido: 3
 //
 // Para executar este arquivo, use o comando: node ex071.js
+//
+// ====================================================================
+// EXEMPLO SIMILAR / CONCEITO:
+//
+// Exemplo similar: Iterar sobre requisições que chegam de uma fila assíncrona.
+//
+// async function* filaDeProcessos() {
+//   yield 'Processo A';
+//   yield 'Processo B';
+// }
+// async function rodar() {
+//   for await (const p of filaDeProcessos()) { console.log(p); }
+// }
+// rodar();
+// ====================================================================
 
 // Escreva seu código abaixo:
+
 

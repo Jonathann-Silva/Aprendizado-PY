@@ -12,6 +12,17 @@
 // Temporizador cancelado com sucesso!
 //
 // Para executar este arquivo, use o comando: node ex083.js
+//
+// ====================================================================
+// EXEMPLO SIMILAR / CONCEITO:
+//
+// Exemplo similar: Iniciar contagem de 5s para deletar conta, mas cancelar ao apertar botão.
+//
+// const timeoutId = setTimeout(() => console.log('Conta deletada!'), 5000);
+// // Cancelando:
+// clearTimeout(timeoutId);
+// ====================================================================
 
 // Escreva seu código abaixo:
+
 

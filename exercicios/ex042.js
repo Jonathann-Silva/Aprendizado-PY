@@ -12,6 +12,25 @@
 // Olá, meu nome é Carlos e eu tenho 28 anos.
 //
 // Para executar este arquivo, use o comando: node ex042.js
+//
+// ====================================================================
+// EXEMPLO SIMILAR / CONCEITO:
+//
+// Exemplo similar: Criar uma classe Carro com construtor e método para descrever suas propriedades.
+//
+// class Carro {
+//   constructor(modelo, ano) {
+//     this.modelo = modelo;
+//     this.ano = ano;
+//   }
+//   descrever() {
+//     return `Carro modelo ${this.modelo}, ano ${this.ano}.`;
+//   }
+// }
+// const meuCarro = new Carro('Civic', 2020);
+// console.log(meuCarro.descrever());
+// ====================================================================
 
 // Escreva seu código abaixo:
+
 

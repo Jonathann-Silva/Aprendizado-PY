@@ -11,5 +11,19 @@
 // Nova linha adicionada!
 //
 // Para executar este arquivo, use o comando: node ex012.js
+//
+// ====================================================================
+// EXEMPLO SIMILAR / CONCEITO:
+//
+// Exemplo similar: Anexar dados de horário a um arquivo de acessos de forma assíncrona.
+//
+// const fs = require('fs');
+// fs.appendFile('acessos.txt', 'Acesso em: ' + new Date() + '\n', 'utf8', (err) => {
+//   if (err) throw err;
+//   console.log('Nova linha de acesso registrada.');
+// });
+// ====================================================================
 
 // Escreva seu código abaixo:
+
+

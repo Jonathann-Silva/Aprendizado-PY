@@ -11,6 +11,16 @@
 // (Tabela visual desenhada no console com colunas, seguidos por logs agrupados e contagem de milissegundos)
 //
 // Para executar este arquivo, use o comando: node ex097.js
+//
+// ====================================================================
+// EXEMPLO SIMILAR / CONCEITO:
+//
+// Exemplo similar: Organizar dados complexos usando console.dir() com depth infinito.
+//
+// const aninhado = { a: { b: { c: { d: 1 } } } };
+// console.dir(aninhado, { depth: null });
+// ====================================================================
 
 // Escreva seu código abaixo:
+
 

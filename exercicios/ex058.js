@@ -13,6 +13,20 @@
 // Olá, João!
 //
 // Para executar este arquivo, use o comando: node ex058.js
+//
+// ====================================================================
+// EXEMPLO SIMILAR / CONCEITO:
+//
+// Exemplo similar: Solicitar que o usuário digite um comando de confirmação (S/N) no terminal.
+//
+// const readline = require('readline');
+// const rl = readline.createInterface({ input: process.stdin, output: process.stdout });
+// rl.question('Deseja continuar? (S/N) ', (resposta) => {
+//   console.log(`Você digitou: ${resposta}`);
+//   rl.close();
+// });
+// ====================================================================
 
 // Escreva seu código abaixo:
+
 

@@ -13,6 +13,18 @@
 // Mensagem recebida: Olá via UDP!
 //
 // Para executar este arquivo, use o comando: node ex076.js
+//
+// ====================================================================
+// EXEMPLO SIMILAR / CONCEITO:
+//
+// Exemplo similar: Servidor UDP recebendo logs rápidos de métricas de rede na porta 6000.
+//
+// const dgram = require('dgram');
+// const socket = dgram.createSocket('udp4');
+// socket.on('message', (msg) => console.log('Métrica:', msg.toString()));
+// socket.bind(6000);
+// ====================================================================
 
 // Escreva seu código abaixo:
+
 

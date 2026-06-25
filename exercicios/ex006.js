@@ -11,5 +11,17 @@
 // (e um arquivo chamado 'meu_arquivo.txt' deve aparecer na pasta)
 //
 // Para executar este arquivo, use o comando: node ex006.js
+//
+// ====================================================================
+// EXEMPLO SIMILAR / CONCEITO:
+//
+// Exemplo similar: Gravar uma mensagem de inicialização de sistema no arquivo 'setup.log'.
+//
+// const fs = require('fs');
+// fs.writeFileSync('setup.log', 'Inicialização concluída em: ' + new Date(), 'utf8');
+// console.log('Arquivo setup.log gravado.');
+// ====================================================================
 
 // Escreva seu código abaixo:
+
+

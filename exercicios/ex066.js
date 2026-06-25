@@ -13,6 +13,17 @@
 // Resultados: [ 'Dados 1', 'Dados 2', 'Dados 3' ]
 //
 // Para executar este arquivo, use o comando: node ex066.js
+//
+// ====================================================================
+// EXEMPLO SIMILAR / CONCEITO:
+//
+// Exemplo similar: Carregar configurações de múltiplos arquivos JSON em paralelo.
+//
+// const p1 = Promise.resolve('Config A');
+// const p2 = Promise.resolve('Config B');
+// Promise.all([p1, p2]).then(configs => console.log(configs));
+// ====================================================================
 
 // Escreva seu código abaixo:
+
 

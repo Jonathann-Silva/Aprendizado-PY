@@ -11,5 +11,17 @@
 // O arquivo meu_arquivo.txt existe!
 //
 // Para executar este arquivo, use o comando: node ex008.js
+//
+// ====================================================================
+// EXEMPLO SIMILAR / CONCEITO:
+//
+// Exemplo similar: Verificar se um arquivo 'relatorio.pdf' existe na pasta.
+//
+// const fs = require('fs');
+// const existe = fs.existsSync('relatorio.pdf');
+// console.log(`O arquivo relatorio.pdf existe? ${existe}`);
+// ====================================================================
 
 // Escreva seu código abaixo:
+
+

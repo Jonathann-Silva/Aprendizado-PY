@@ -12,6 +12,19 @@
 // (Responde com 200 se enviar header x-api-key: segredo123, ou 401 caso contrário)
 //
 // Para executar este arquivo, use o comando: node ex079.js
+//
+// ====================================================================
+// EXEMPLO SIMILAR / CONCEITO:
+//
+// Exemplo similar: Ler o cabeçalho 'User-Agent' para identificar navegador do cliente.
+//
+// const http = require('http');
+// http.createServer((req, res) => {
+//   const agent = req.headers['user-agent'];
+//   res.end('Você está navegando com: ' + agent);
+// }).listen(3000);
+// ====================================================================
 
 // Escreva seu código abaixo:
+
 

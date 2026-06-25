@@ -14,6 +14,18 @@
 // Conexão encerrada pelo servidor.
 //
 // Para executar este arquivo, use o comando: node ex075.js
+//
+// ====================================================================
+// EXEMPLO SIMILAR / CONCEITO:
+//
+// Exemplo similar: Conectar-se ao servidor de data/hora TCP na porta 5050.
+//
+// const net = require('net');
+// const client = net.connect({ port: 5050 }, () => {
+//   client.on('data', data => console.log('Data Recebida:', data.toString()));
+// });
+// ====================================================================
 
 // Escreva seu código abaixo:
+
 

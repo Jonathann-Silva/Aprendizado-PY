@@ -11,6 +11,17 @@
 // Valor total do carrinho: 400
 //
 // Para executar este arquivo, use o comando: node ex034.js
+//
+// ====================================================================
+// EXEMPLO SIMILAR / CONCEITO:
+//
+// Exemplo similar: Concatenar strings de um array com vírgulas usando reduce.
+//
+// const palavras = ['Node', 'JavaScript', 'CSS'];
+// const resultado = palavras.reduce((frase, palavra) => frase + ', ' + palavra);
+// console.log(resultado);
+// ====================================================================
 
 // Escreva seu código abaixo:
+
 

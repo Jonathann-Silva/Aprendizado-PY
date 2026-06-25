@@ -15,5 +15,19 @@
 // (E o terminal fecha a execução imediatamente)
 //
 // Para executar este arquivo, use o comando: node ex029.js
+//
+// ====================================================================
+// EXEMPLO SIMILAR / CONCEITO:
+//
+// Exemplo similar: Verificar se a pasta de logs existe. Se não existir, encerrar programa com código 1.
+//
+// const fs = require('fs');
+// if (!fs.existsSync('logs')) {
+//   console.error('Erro crítico: pasta logs inexistente! Encerrando...');
+//   process.exit(1);
+// }
+// ====================================================================
 
 // Escreva seu código abaixo:
+
+

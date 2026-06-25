@@ -13,6 +13,18 @@
 // Clone Cidade: Rio de Janeiro
 //
 // Para executar este arquivo, use o comando: node ex088.js
+//
+// ====================================================================
+// EXEMPLO SIMILAR / CONCEITO:
+//
+// Exemplo similar: Copiar matrizes (arrays bidimensionais) isolando suas referências de memória.
+//
+// const original = [[1, 2], [3, 4]];
+// const clone = structuredClone(original);
+// clone[0][0] = 99;
+// console.log(original[0][0]); // 1 (não alterado)
+// ====================================================================
 
 // Escreva seu código abaixo:
+
 

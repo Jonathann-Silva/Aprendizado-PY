@@ -10,5 +10,19 @@
 // (Lista com os nomes dos arquivos contidos na pasta de execução, como ex001.js, ex002.js, etc.)
 //
 // Para executar este arquivo, use o comando: node ex014.js
+//
+// ====================================================================
+// EXEMPLO SIMILAR / CONCEITO:
+//
+// Exemplo similar: Listar de forma assíncrona os arquivos contidos no diretório raiz do projeto.
+//
+// const fs = require('fs');
+// fs.readdir('./', (err, arquivos) => {
+//   if (err) throw err;
+//   console.log('Arquivos encontrados:', arquivos);
+// });
+// ====================================================================
 
 // Escreva seu código abaixo:
+
+

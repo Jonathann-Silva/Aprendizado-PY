@@ -15,6 +15,22 @@
 // Arquivo index.html servido.
 //
 // Para executar este arquivo, use o comando: node ex080.js
+//
+// ====================================================================
+// EXEMPLO SIMILAR / CONCEITO:
+//
+// Exemplo similar: Servir arquivo de estilo styles.css do diretório público.
+//
+// const http = require('http');
+// const fs = require('fs');
+// http.createServer((req, res) => {
+//   fs.readFile('./style.css', (err, data) => {
+//     res.writeHead(200, { 'Content-Type': 'text/css' });
+//     res.end(data);
+//   });
+// }).listen(3000);
+// ====================================================================
 
 // Escreva seu código abaixo:
+
 

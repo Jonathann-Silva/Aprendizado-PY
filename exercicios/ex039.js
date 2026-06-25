@@ -11,6 +11,20 @@
 // Perfil: { nome: 'Pedro', idade: 30, cidade: 'São Paulo' }
 //
 // Para executar este arquivo, use o comando: node ex039.js
+//
+// ====================================================================
+// EXEMPLO SIMILAR / CONCEITO:
+//
+// Exemplo similar: Unir arrays de sobremesas e fazer clone estendido de objeto animal.
+//
+// const frutas = ['uva', 'pera'];
+// const doces = ['bolo', 'chocolate'];
+// const cardapio = [...frutas, ...doces];
+// const gato = { raca: 'Siamês' };
+// const pet = { ...gato, nome: 'Mingau' };
+// console.log(cardapio, pet);
+// ====================================================================
 
 // Escreva seu código abaixo:
+
 

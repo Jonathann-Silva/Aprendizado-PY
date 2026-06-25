@@ -13,6 +13,17 @@
 // Memória Livre: XX.XX GB
 //
 // Para executar este arquivo, use o comando: node ex065.js
+//
+// ====================================================================
+// EXEMPLO SIMILAR / CONCEITO:
+//
+// Exemplo similar: Obter o tempo de atividade do sistema operacional em horas.
+//
+// const os = require('os');
+// const horasAtivo = os.uptime() / 3600;
+// console.log(`SO ativo há: ${horasAtivo.toFixed(1)} horas`);
+// ====================================================================
 
 // Escreva seu código abaixo:
+
 

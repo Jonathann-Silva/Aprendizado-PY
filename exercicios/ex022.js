@@ -14,5 +14,18 @@
 // Nome do usuário: Ana | Nível de acesso: administrador
 //
 // Para executar este arquivo, use o comando: node ex022.js
+//
+// ====================================================================
+// EXEMPLO SIMILAR / CONCEITO:
+//
+// Exemplo similar: Ler um arquivo JSON de configurações e extrair o Host de banco de dados.
+//
+// const fs = require('fs');
+// const raw = fs.readFileSync('config.json', 'utf8');
+// const config = JSON.parse(raw);
+// console.log(`Banco de dados Host: ${config.db_host}`);
+// ====================================================================
 
 // Escreva seu código abaixo:
+
+

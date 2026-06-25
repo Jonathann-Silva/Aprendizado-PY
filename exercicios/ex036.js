@@ -12,6 +12,18 @@
 // Todos os números são positivos no Array 2? true
 //
 // Para executar este arquivo, use o comando: node ex036.js
+//
+// ====================================================================
+// EXEMPLO SIMILAR / CONCEITO:
+//
+// Exemplo similar: Verificar se algum produto está inativo e se todos pertencem à categoria eletrônicos.
+//
+// const itens = [{ nome: 'Celular', tipo: 'eletro', ativo: true }, { nome: 'Livro', tipo: 'outros', ativo: false }];
+// const temInativo = itens.some(item => !item.ativo);
+// const todosEletro = itens.every(item => item.tipo === 'eletro');
+// console.log(temInativo, todosEletro);
+// ====================================================================
 
 // Escreva seu código abaixo:
+
 

@@ -11,6 +11,17 @@
 // Ano: 2026 | Mês: 06 | Dia: 25
 //
 // Para executar este arquivo, use o comando: node ex087.js
+//
+// ====================================================================
+// EXEMPLO SIMILAR / CONCEITO:
+//
+// Exemplo similar: Extrair código de DDD e telefone de um número formatado '(11) 99999-9999'.
+//
+// const telRegex = /\((\d{2})\)\s(\d{5}-\d{4})/;
+// const match = telRegex.exec('(11) 99999-8888');
+// console.log('DDD:', match[1], 'Telefone:', match[2]);
+// ====================================================================
 
 // Escreva seu código abaixo:
+
 

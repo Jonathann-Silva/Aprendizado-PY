@@ -19,6 +19,16 @@
 // Tamanho do arquivo compactado e criptografado: XX bytes
 //
 // Para executar este arquivo, use o comando: node ex100.js
+//
+// ====================================================================
+// EXEMPLO SIMILAR / CONCEITO:
+//
+// Exemplo similar: Mini-sistema de backup que lê uma pasta de uploads, junta arquivos em tar, encripta e compacta.
+//
+// // Combina Readable stream, Zlib Gzip, Crypto Cipher e fs.createWriteStream em um único fluxo de pipe sequencial.
+// // fs.createReadStream('src.txt').pipe(cipher).pipe(gzip).pipe(fs.createWriteStream('dst.txt.enc.gz'));
+// ====================================================================
 
 // Escreva seu código abaixo:
+
 

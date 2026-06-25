@@ -11,5 +11,18 @@
 // Olá! Um evento foi acionado!
 //
 // Para executar este arquivo, use o comando: node ex020.js
+//
+// ====================================================================
+// EXEMPLO SIMILAR / CONCEITO:
+//
+// Exemplo similar: Criar um Event Emitter e registrar um ouvinte para o evento 'perigo'.
+//
+// const EventEmitter = require('events');
+// const seguranca = new EventEmitter();
+// seguranca.on('perigo', () => console.log('Alerta: Invasão detectada!'));
+// seguranca.emit('perigo');
+// ====================================================================
 
 // Escreva seu código abaixo:
+
+

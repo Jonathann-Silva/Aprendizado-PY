@@ -12,5 +12,19 @@
 // Aprendendo Node.js é muito legal!
 //
 // Para executar este arquivo, use o comando: node ex007.js
+//
+// ====================================================================
+// EXEMPLO SIMILAR / CONCEITO:
+//
+// Exemplo similar: Ler e exibir o conteúdo de um arquivo de logs.
+//
+// const fs = require('fs');
+// if (fs.existsSync('setup.log')) {
+//   const conteudo = fs.readFileSync('setup.log', 'utf8');
+//   console.log(`Logs lidos: ${conteudo}`);
+// }
+// ====================================================================
 
 // Escreva seu código abaixo:
+
+

@@ -12,6 +12,17 @@
 // Primeiro sucesso recebido: Sucesso lento (1s)
 //
 // Para executar este arquivo, use o comando: node ex069.js
+//
+// ====================================================================
+// EXEMPLO SIMILAR / CONCEITO:
+//
+// Exemplo similar: Pegar o primeiro sucesso de download em múltiplos servidores alternativos.
+//
+// const srv1 = Promise.reject('Indisponivel');
+// const srv2 = Promise.resolve('Download OK do servidor 2');
+// Promise.any([srv1, srv2]).then(ok => console.log(ok));
+// ====================================================================
 
 // Escreva seu código abaixo:
+
 

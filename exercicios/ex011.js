@@ -10,5 +10,22 @@
 // Texto assíncrono!
 //
 // Para executar este arquivo, use o comando: node ex011.js
+//
+// ====================================================================
+// EXEMPLO SIMILAR / CONCEITO:
+//
+// Exemplo similar: Ler o arquivo 'erros.log' de forma assíncrona.
+//
+// const fs = require('fs');
+// fs.readFile('erros.log', 'utf8', (err, dados) => {
+//   if (err) {
+//     console.error('Erro na leitura assíncrona:', err.message);
+//     return;
+//   }
+//   console.log(`Dados lidos: ${dados}`);
+// });
+// ====================================================================
 
 // Escreva seu código abaixo:
+
+

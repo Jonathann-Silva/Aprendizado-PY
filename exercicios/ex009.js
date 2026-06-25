@@ -12,5 +12,19 @@
 // A pasta minha_pasta já existe! (nas execuções seguintes)
 //
 // Para executar este arquivo, use o comando: node ex009.js
+//
+// ====================================================================
+// EXEMPLO SIMILAR / CONCEITO:
+//
+// Exemplo similar: Criar um diretório para uploads de fotos, se não existir.
+//
+// const fs = require('fs');
+// if (!fs.existsSync('uploads')) {
+//   fs.mkdirSync('uploads');
+//   console.log('Pasta uploads criada!');
+// }
+// ====================================================================
 
 // Escreva seu código abaixo:
+
+

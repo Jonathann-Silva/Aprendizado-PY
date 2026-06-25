@@ -18,5 +18,21 @@
 // (e o programa deve finalizar sozinho)
 //
 // Para executar este arquivo, use o comando: node ex015.js
+//
+// ====================================================================
+// EXEMPLO SIMILAR / CONCEITO:
+//
+// Exemplo similar: Disparar mensagem de alerta após 3 segundos, e piscar um LED (simulado) a cada 200ms.
+//
+// setTimeout(() => console.log('Tempo esgotado!'), 3000);
+// let piscadas = 1;
+// const tId = setInterval(() => {
+//   console.log('Piscando LED...');
+//   piscadas++;
+//   if (piscadas > 5) clearInterval(tId);
+// }, 200);
+// ====================================================================
 
 // Escreva seu código abaixo:
+
+

@@ -12,5 +12,26 @@
 // Olá, Maria!
 //
 // Para executar este arquivo, use o comando: node ex003.js SeuNome
+//
+// ====================================================================
+// EXEMPLO SIMILAR / CONCEITO:
+//
+// Exemplo similar: Ler uma cor favorita do usuário via terminal (process.argv).
+// Exemplo de execução: node ex003.js azul
+//
+// const cor = process.argv[2];
+// if (cor) {
+//   console.log(`Cor informada: ${cor}`);
+// } else {
+//   console.log("Nenhuma cor informada.");
+// }
+// ====================================================================
 
 // Escreva seu código abaixo:
+
+const nome = process.argv[2]
+if (nome) {
+    console.log (`Olá ${nome}`)
+} else {
+    console.log("Nenhum nome encntrado.")
+}

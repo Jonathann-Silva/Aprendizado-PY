@@ -11,6 +11,18 @@
 // Escrita concluída via Stream.
 //
 // Para executar este arquivo, use o comando: node ex054.js
+//
+// ====================================================================
+// EXEMPLO SIMILAR / CONCEITO:
+//
+// Exemplo similar: Criar um stream de logs e gravar dados sequencialmente encerrando no final.
+//
+// const fs = require('fs');
+// const writeStream = fs.createWriteStream('app.log');
+// writeStream.write('Requisicao recebida\n');
+// writeStream.end();
+// ====================================================================
 
 // Escreva seu código abaixo:
+
 

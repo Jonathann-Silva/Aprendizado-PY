@@ -13,5 +13,17 @@
 // (e o arquivo 'produto.json' deve ter sido criado com o JSON formatado)
 //
 // Para executar este arquivo, use o comando: node ex023.js
+//
+// ====================================================================
+// EXEMPLO SIMILAR / CONCEITO:
+//
+// Exemplo similar: Salvar um objeto perfil de usuário em formato JSON no arquivo 'perfil.json'.
+//
+// const fs = require('fs');
+// const perfil = { username: 'dev123', stack: 'Fullstack' };
+// fs.writeFileSync('perfil.json', JSON.stringify(perfil, null, 2), 'utf8');
+// ====================================================================
 
 // Escreva seu código abaixo:
+
+

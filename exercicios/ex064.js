@@ -10,6 +10,16 @@
 // Endereços IPv4 encontrados: [ 'X.X.X.X', ... ]
 //
 // Para executar este arquivo, use o comando: node ex064.js
+//
+// ====================================================================
+// EXEMPLO SIMILAR / CONCEITO:
+//
+// Exemplo similar: Resolver servidores de email (registros MX) usando dns.
+//
+// const dns = require('dns');
+// dns.resolveMx('gmail.com', (err, addresses) => console.log(addresses));
+// ====================================================================
 
 // Escreva seu código abaixo:
+
 

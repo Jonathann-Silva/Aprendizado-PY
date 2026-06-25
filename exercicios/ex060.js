@@ -11,6 +11,16 @@
 // Versão do Node.js instalada: vXX.XX.XX
 //
 // Para executar este arquivo, use o comando: node ex060.js
+//
+// ====================================================================
+// EXEMPLO SIMILAR / CONCEITO:
+//
+// Exemplo similar: Executar comando de listagem de arquivos da pasta usando exec.
+//
+// const { exec } = require('child_process');
+// exec('echo Olá do Node', (err, stdout) => console.log(stdout));
+// ====================================================================
 
 // Escreva seu código abaixo:
+
 

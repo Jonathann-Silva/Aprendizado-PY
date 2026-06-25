@@ -13,6 +13,19 @@
 // Resposta JSON enviada.
 //
 // Para executar este arquivo, use o comando: node ex078.js
+//
+// ====================================================================
+// EXEMPLO SIMILAR / CONCEITO:
+//
+// Exemplo similar: Servidor que retorna lista de produtos em JSON.
+//
+// const http = require('http');
+// http.createServer((req, res) => {
+//   res.writeHead(200, { 'Content-Type': 'application/json' });
+//   res.end(JSON.stringify([{ id: 1, nome: 'Tênis' }]));
+// }).listen(3000);
+// ====================================================================
 
 // Escreva seu código abaixo:
+
 
